@@ -4,4 +4,3 @@ while True:
     if number == 100000000:
         break
     number += 1
-print("python done!")
