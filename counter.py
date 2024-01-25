@@ -5,4 +5,5 @@ def count():
             break
         number += 1
 
+
 count()
